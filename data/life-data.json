@@ -1,0 +1,898 @@
+{
+  "india": {
+    "stats": {
+      "transactions": 10267,
+      "totalSpent": 48966073.38,
+      "averageTransaction": 5145.66,
+      "fraudFlags": 5046,
+      "cities": 312,
+      "merchants": 1347
+    },
+    "categories": [
+      {
+        "name": "travel",
+        "amount": 12044742.4,
+        "count": 2195
+      },
+      {
+        "name": "entertainment",
+        "amount": 11572453.74,
+        "count": 2252
+      },
+      {
+        "name": "online_shopping",
+        "amount": 11558159.7,
+        "count": 2342
+      },
+      {
+        "name": "fitness_and_medical",
+        "amount": 9785338.1,
+        "count": 1964
+      },
+      {
+        "name": "Uncategorized",
+        "amount": 4005379.44,
+        "count": 763
+      }
+    ],
+    "merchants": [
+      {
+        "name": "Unknown merchant",
+        "amount": 3699552.21,
+        "count": 735
+      },
+      {
+        "name": "fraud_Lalla PLC Pvt Ltd",
+        "amount": 165604.83,
+        "count": 21
+      },
+      {
+        "name": "fraud_Khanna Ltd Pvt Ltd",
+        "amount": 155823.42,
+        "count": 18
+      },
+      {
+        "name": "fraud_Chaudry and Sons Pvt Ltd",
+        "amount": 145703.85,
+        "count": 15
+      },
+      {
+        "name": "fraud_Shah-Loyal Pvt Ltd",
+        "amount": 138066.6,
+        "count": 14
+      },
+      {
+        "name": "fraud_Bajwa, Sandal and Issac Pvt Ltd",
+        "amount": 137928.6,
+        "count": 15
+      },
+      {
+        "name": "fraud_Rattan Inc Pvt Ltd",
+        "amount": 133853.0,
+        "count": 16
+      },
+      {
+        "name": "fraud_Gokhale, Rajagopal and Gala Pvt Ltd",
+        "amount": 125352.0,
+        "count": 16
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2022-04",
+        "amount": 875486.87
+      },
+      {
+        "month": "2022-05",
+        "amount": 1441006.18
+      },
+      {
+        "month": "2022-06",
+        "amount": 1941758.25
+      },
+      {
+        "month": "2022-07",
+        "amount": 1859260.17
+      },
+      {
+        "month": "2022-08",
+        "amount": 2278002.64
+      },
+      {
+        "month": "2022-09",
+        "amount": 1799422.95
+      },
+      {
+        "month": "2022-10",
+        "amount": 1479123.43
+      },
+      {
+        "month": "2022-11",
+        "amount": 2046372.83
+      },
+      {
+        "month": "2022-12",
+        "amount": 1928876.36
+      },
+      {
+        "month": "2023-01",
+        "amount": 2022944.52
+      },
+      {
+        "month": "2023-02",
+        "amount": 1785905.79
+      },
+      {
+        "month": "2023-03",
+        "amount": 2122311.82
+      },
+      {
+        "month": "2023-04",
+        "amount": 2328433.85
+      },
+      {
+        "month": "2023-05",
+        "amount": 1849024.55
+      },
+      {
+        "month": "2023-06",
+        "amount": 2849658.54
+      },
+      {
+        "month": "2023-07",
+        "amount": 2083405.95
+      },
+      {
+        "month": "2023-08",
+        "amount": 1281012.81
+      },
+      {
+        "month": "2023-09",
+        "amount": 1382410.03
+      },
+      {
+        "month": "2023-10",
+        "amount": 1833909.83
+      },
+      {
+        "month": "2023-11",
+        "amount": 1703670.88
+      },
+      {
+        "month": "2023-12",
+        "amount": 1849140.71
+      },
+      {
+        "month": "2024-01",
+        "amount": 1717973.58
+      },
+      {
+        "month": "2024-02",
+        "amount": 1540844.26
+      },
+      {
+        "month": "2024-03",
+        "amount": 2138567.72
+      },
+      {
+        "month": "2024-04",
+        "amount": 1030544.82
+      }
+    ],
+    "hourly": [
+      {
+        "hour": 0,
+        "amount": 2276376.08
+      },
+      {
+        "hour": 1,
+        "amount": 1762157.0
+      },
+      {
+        "hour": 2,
+        "amount": 1628798.28
+      },
+      {
+        "hour": 3,
+        "amount": 2129685.01
+      },
+      {
+        "hour": 4,
+        "amount": 1575974.96
+      },
+      {
+        "hour": 5,
+        "amount": 1910962.33
+      },
+      {
+        "hour": 6,
+        "amount": 1811759.62
+      },
+      {
+        "hour": 7,
+        "amount": 1780156.77
+      },
+      {
+        "hour": 8,
+        "amount": 1923854.04
+      },
+      {
+        "hour": 9,
+        "amount": 2011897.27
+      },
+      {
+        "hour": 10,
+        "amount": 2166918.25
+      },
+      {
+        "hour": 11,
+        "amount": 2533849.7
+      },
+      {
+        "hour": 12,
+        "amount": 2022440.93
+      },
+      {
+        "hour": 13,
+        "amount": 1159070.78
+      },
+      {
+        "hour": 14,
+        "amount": 1271029.13
+      },
+      {
+        "hour": 15,
+        "amount": 1759048.39
+      },
+      {
+        "hour": 16,
+        "amount": 1897083.74
+      },
+      {
+        "hour": 17,
+        "amount": 2495530.64
+      },
+      {
+        "hour": 18,
+        "amount": 1987508.72
+      },
+      {
+        "hour": 19,
+        "amount": 1875856.43
+      },
+      {
+        "hour": 20,
+        "amount": 1886438.51
+      },
+      {
+        "hour": 21,
+        "amount": 1772484.85
+      },
+      {
+        "hour": 22,
+        "amount": 1271630.2
+      },
+      {
+        "hour": 23,
+        "amount": 2258557.71
+      }
+    ],
+    "receipts": [
+      {
+        "date": "16 Apr 2024",
+        "time": "11:16 AM",
+        "merchant": "fraud_Dey-Manda Pvt Ltd",
+        "category": "fitness_and_medical",
+        "amount": 5729.54,
+        "location": "Mehsana, Arunachal Pradesh",
+        "fraud": false,
+        "source": "India transactions"
+      },
+      {
+        "date": "15 Apr 2024",
+        "time": "03:26 AM",
+        "merchant": "fraud_Karan, Bhalla and Gara Pvt Ltd",
+        "category": "travel",
+        "amount": 8761.71,
+        "location": "Mathura, Unknown",
+        "fraud": true,
+        "source": "India transactions"
+      },
+      {
+        "date": "14 Apr 2024",
+        "time": "07:31 PM",
+        "merchant": "fraud_Cheema Group Pvt Ltd",
+        "category": "entertainment",
+        "amount": 9765.94,
+        "location": "Thrissur, Arunachal Pradesh",
+        "fraud": true,
+        "source": "India transactions"
+      },
+      {
+        "date": "14 Apr 2024",
+        "time": "12:52 PM",
+        "merchant": "fraud_Sheth-Karan Pvt Ltd",
+        "category": "entertainment",
+        "amount": 4420.76,
+        "location": "Bhiwandi, Jharkhand",
+        "fraud": true,
+        "source": "India transactions"
+      },
+      {
+        "date": "13 Apr 2024",
+        "time": "08:29 PM",
+        "merchant": "fraud_Ratti, Rana and Vaidya Pvt Ltd",
+        "category": "online_shopping",
+        "amount": 5766.94,
+        "location": "Unknown, Tamil Nadu",
+        "fraud": true,
+        "source": "India transactions"
+      }
+    ]
+  },
+  "household": {
+    "stats": {
+      "transactions": 2461,
+      "totalSpent": 1957390.53,
+      "totalIncome": 3042397.35,
+      "averageExpense": 899.54,
+      "categories": 50
+    },
+    "categories": [
+      {
+        "name": "Money transfer",
+        "amount": 606528.9,
+        "count": 43
+      },
+      {
+        "name": "Investment",
+        "amount": 271858.0,
+        "count": 103
+      },
+      {
+        "name": "Transportation",
+        "amount": 169053.78,
+        "count": 307
+      },
+      {
+        "name": "Household",
+        "amount": 161645.58,
+        "count": 176
+      },
+      {
+        "name": "subscription",
+        "amount": 114587.91,
+        "count": 143
+      },
+      {
+        "name": "Food",
+        "amount": 96403.1,
+        "count": 907
+      },
+      {
+        "name": "Public Provident Fund",
+        "amount": 90000.0,
+        "count": 8
+      },
+      {
+        "name": "Other",
+        "amount": 87025.28,
+        "count": 114
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2015-01",
+        "amount": 4434.0
+      },
+      {
+        "month": "2015-02",
+        "amount": 6710.0
+      },
+      {
+        "month": "2015-03",
+        "amount": 6509.8
+      },
+      {
+        "month": "2015-04",
+        "amount": 3791.0
+      },
+      {
+        "month": "2015-05",
+        "amount": 21076.0
+      },
+      {
+        "month": "2015-06",
+        "amount": 1198.0
+      },
+      {
+        "month": "2015-07",
+        "amount": 2798.0
+      },
+      {
+        "month": "2015-08",
+        "amount": 15507.0
+      },
+      {
+        "month": "2015-09",
+        "amount": 3198.0
+      },
+      {
+        "month": "2015-10",
+        "amount": 8768.0
+      },
+      {
+        "month": "2015-11",
+        "amount": 989.0
+      },
+      {
+        "month": "2015-12",
+        "amount": 4356.0
+      },
+      {
+        "month": "2016-01",
+        "amount": 10368.0
+      },
+      {
+        "month": "2016-02",
+        "amount": 11610.0
+      },
+      {
+        "month": "2016-03",
+        "amount": 1050.0
+      },
+      {
+        "month": "2016-04",
+        "amount": 1279.0
+      },
+      {
+        "month": "2016-05",
+        "amount": 12782.0
+      },
+      {
+        "month": "2016-06",
+        "amount": 6585.9
+      },
+      {
+        "month": "2016-07",
+        "amount": 3361.0
+      },
+      {
+        "month": "2016-08",
+        "amount": 3955.0
+      },
+      {
+        "month": "2016-09",
+        "amount": 1763.0
+      },
+      {
+        "month": "2016-10",
+        "amount": 5856.2
+      },
+      {
+        "month": "2016-11",
+        "amount": 31460.0
+      },
+      {
+        "month": "2016-12",
+        "amount": 18306.6
+      },
+      {
+        "month": "2017-01",
+        "amount": 8090.0
+      },
+      {
+        "month": "2017-02",
+        "amount": 24486.0
+      },
+      {
+        "month": "2017-03",
+        "amount": 18491.0
+      },
+      {
+        "month": "2017-04",
+        "amount": 10307.68
+      },
+      {
+        "month": "2017-05",
+        "amount": 6167.0
+      },
+      {
+        "month": "2017-06",
+        "amount": 12508.5
+      },
+      {
+        "month": "2017-07",
+        "amount": 38179.0
+      },
+      {
+        "month": "2017-08",
+        "amount": 22574.7
+      },
+      {
+        "month": "2017-09",
+        "amount": 9971.0
+      },
+      {
+        "month": "2017-10",
+        "amount": 9989.49
+      },
+      {
+        "month": "2017-11",
+        "amount": 44180.0
+      },
+      {
+        "month": "2017-12",
+        "amount": 37499.0
+      },
+      {
+        "month": "2018-01",
+        "amount": 101562.9
+      },
+      {
+        "month": "2018-02",
+        "amount": 10424.0
+      },
+      {
+        "month": "2018-03",
+        "amount": 7114.75
+      },
+      {
+        "month": "2018-04",
+        "amount": 8408.0
+      },
+      {
+        "month": "2018-05",
+        "amount": 25380.0
+      },
+      {
+        "month": "2018-06",
+        "amount": 33003.02
+      },
+      {
+        "month": "2018-07",
+        "amount": 46387.36
+      },
+      {
+        "month": "2018-08",
+        "amount": 9348.65
+      },
+      {
+        "month": "2018-09",
+        "amount": 779.0
+      }
+    ],
+    "receipts": [
+      {
+        "date": "20 Sep 2018",
+        "time": "12:04 PM",
+        "mode": "Cash",
+        "category": "Transportation",
+        "subcategory": "Train",
+        "note": "2 Place 5 to Place 0",
+        "amount": 30.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "20 Sep 2018",
+        "time": "12:03 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "snacks",
+        "note": "Idli medu Vada mix 2 plates",
+        "amount": 60.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "17 Sep 2018",
+        "time": "11:41 PM",
+        "mode": "Saving Bank account 1",
+        "category": "subscription",
+        "subcategory": "Mobile Service Provider",
+        "note": "Data booster pack",
+        "amount": 19.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "16 Sep 2018",
+        "time": "05:15 PM",
+        "mode": "Cash",
+        "category": "Festivals",
+        "subcategory": "Ganesh Pujan",
+        "note": "Ganesh idol",
+        "amount": 251.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "15 Sep 2018",
+        "time": "06:34 AM",
+        "mode": "Credit Card",
+        "category": "subscription",
+        "subcategory": "Tata Sky",
+        "note": "Permanent Residence - Tata Play recharge",
+        "amount": 200.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "14 Sep 2018",
+        "time": "05:39 AM",
+        "mode": "Cash",
+        "category": "Transportation",
+        "subcategory": "auto",
+        "note": "Place 2 station to Permanent Residence",
+        "amount": 50.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "13 Sep 2018",
+        "time": "09:35 PM",
+        "mode": "Saving Bank account 1",
+        "category": "Transportation",
+        "subcategory": "Train",
+        "note": "2 Place 0 to Place 3",
+        "amount": 40.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "13 Sep 2018",
+        "time": "09:01 PM",
+        "mode": "Credit Card",
+        "category": "Other",
+        "subcategory": "Other",
+        "note": "HBR 2 Months subscription",
+        "amount": 83.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "13 Sep 2018",
+        "time": "09:01 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Grocery",
+        "note": "1kg atta",
+        "amount": 46.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "31 Aug 2018",
+        "time": "03:12 PM",
+        "mode": "Cash",
+        "category": "Gift",
+        "subcategory": "Other",
+        "note": "farewell contribution",
+        "amount": 118.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "31 Aug 2018",
+        "time": "03:12 PM",
+        "mode": "Cash",
+        "category": "Family",
+        "subcategory": "Pocket money",
+        "note": "",
+        "amount": 1000.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "31 Aug 2018",
+        "time": "10:01 AM",
+        "mode": "Credit Card",
+        "category": "Food",
+        "subcategory": "Dinner",
+        "note": "Domino's Pizza",
+        "amount": 510.85,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "31 Aug 2018",
+        "time": "09:26 AM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Milk",
+        "note": "Half lit  milk",
+        "amount": 36.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "30 Aug 2018",
+        "time": "09:10 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Sweets",
+        "note": "Warna Srikhand pav kg",
+        "amount": 78.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "30 Aug 2018",
+        "time": "09:09 PM",
+        "mode": "Cash",
+        "category": "Household",
+        "subcategory": "Kirana",
+        "note": "Supermart",
+        "amount": 343.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "29 Aug 2018",
+        "time": "12:21 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Grocery",
+        "note": "Baking soda",
+        "amount": 27.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "29 Aug 2018",
+        "time": "12:21 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Ice cream",
+        "note": "chocobar",
+        "amount": 15.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "29 Aug 2018",
+        "time": "12:11 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Milk",
+        "note": "Half lit  milk",
+        "amount": 36.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "27 Aug 2018",
+        "time": "09:30 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "curd",
+        "note": "Dahi 2 packets",
+        "amount": 20.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "27 Aug 2018",
+        "time": "10:52 AM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "breakfast",
+        "note": "2 plates poha",
+        "amount": 60.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "27 Aug 2018",
+        "time": "10:52 AM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Biscuits",
+        "note": "Khari packet",
+        "amount": 45.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "27 Aug 2018",
+        "time": "10:52 AM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Milk",
+        "note": "Half lit  milk",
+        "amount": 36.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "25 Aug 2018",
+        "time": "09:04 PM",
+        "mode": "Cash",
+        "category": "Apparel",
+        "subcategory": "Laundry",
+        "note": "13 clothes ironing",
+        "amount": 91.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "24 Aug 2018",
+        "time": "10:13 PM",
+        "mode": "Credit Card",
+        "category": "Food",
+        "subcategory": "Dinner",
+        "note": "Home Food Delivery",
+        "amount": 1120.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "24 Aug 2018",
+        "time": "08:20 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Rajgira ladu",
+        "note": "",
+        "amount": 20.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "24 Aug 2018",
+        "time": "08:17 PM",
+        "mode": "Cash",
+        "category": "Food",
+        "subcategory": "Milk",
+        "note": "Half lit  milk",
+        "amount": 36.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "24 Aug 2018",
+        "time": "01:34 PM",
+        "mode": "Cash",
+        "category": "Festivals",
+        "subcategory": "Navratri",
+        "note": "Ganpati+ navratri vargani",
+        "amount": 1000.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "23 Aug 2018",
+        "time": "09:29 PM",
+        "mode": "Credit Card",
+        "category": "Transportation",
+        "subcategory": "train",
+        "note": "2 Place 2 to Place 3 : Sevagram express 3AC",
+        "amount": 1305.4,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "23 Aug 2018",
+        "time": "09:29 PM",
+        "mode": "Credit Card",
+        "category": "Transportation",
+        "subcategory": "train",
+        "note": "2 Place 3 to Place 2 : Amritsar express 3AC",
+        "amount": 1205.4,
+        "currency": "INR",
+        "source": "Household transactions"
+      },
+      {
+        "date": "23 Aug 2018",
+        "time": "07:55 PM",
+        "mode": "Saving Bank account 1",
+        "category": "Food",
+        "subcategory": "Lunch",
+        "note": "Catering Service",
+        "amount": 60.0,
+        "currency": "INR",
+        "source": "Household transactions"
+      }
+    ]
+  }
+}
