@@ -1,54 +1,32 @@
-# Receipts — Your Life, In Receipts
+# 🧾 Receipts — Your Life, In Receipts
 
-## Overview
+> **A digital archive that turns everyday records into a story.**
 
-## Problem & Concept
+Receipts is an interactive frontend experience built for the **WebRush — "Your Life, In Receipts"** challenge.
 
-## Key Features
-### Listening Archive
-### Pattern Discovery
-### Receipt Explorer
-### Personal Transactions
-### Household Transactions
-### Cross-Trace Connections
+Instead of treating personal data as a conventional dashboard or timeline, the project treats every record as a small piece of evidence: a song played, a transaction made, or an everyday household expense.
 
-## User Experience Flow
+The experience combines these different trails to reveal patterns, recurring behavior, and relationships across everyday life.
 
-## Technical Architecture
+---
 
-## Project Structure
+## ✦ Concept
 
-## Data Architecture
-### Spotify Dataset
-### Personal Transactions
-### Household Transactions
+A life does not exist in one dataset.
 
-## Data Preprocessing
+It leaves traces everywhere.
 
-## Performance Considerations
+Receipts brings together three fictionalized data streams:
 
-## Accessibility & Responsive Design
+- 🎧 **Sound** — listening history and music behavior
+- 💳 **Personal spending** — individual transaction records
+- 🏠 **Household activity** — everyday household transactions
 
-## Component Documentation
+The experience moves through three levels:
 
-## Getting Started
-
-## Development Commands
-
-## Production Build
-
-## Deployment
-
-## Testing & Verification
-
-## Design Decisions
-
-## Known Limitations
-
-## Future Improvements
-
-## Hackathon Requirements Mapping
-
-## Tech Stack
-
-## Author
+```text
+INDIVIDUAL RECORDS
+       ↓
+PATTERNS & INSIGHTS
+       ↓
+CROSS-TRACE CONNECTIONS
